@@ -1,6 +1,6 @@
 # Introdução
 
-O desperdício de energia é algo que deve ser constantemente considerado durante a fase de projeto de um circuito elétrico não importa o seu tamanho. O teorema da máxima transferência de potência é um ponto chave nesse quesito pois ele nos ajuda a alcançar o máximo de aproveitamente de um circuito, evitando o desperdício de energia ao seu máximo.
+O desperdício de energia é algo que deve ser constantemente considerado durante a fase de projeto de um circuito elétrico não importa o seu tamanho. O teorema da máxima transferência de potência é um ponto chave nesse quesito pois ele nos ajuda a alcançar o máximo de aproveitamento de um circuito, evitando o desperdício de energia ao seu máximo.
 
 Neste experimento podemos observar a relação entre a máxima transferência de potência, eficiência, potência dissipada e a resistência equivalente em um circuito.
 
@@ -16,7 +16,7 @@ Este trabalho tem como objetivos principais o uso do laboratório virtual com a 
 ## Objetivos específicos
 
 - Aplicação de conhecimentos básicos das unidades curriculares do curso de Engenharia Elétrica
-- Uso de laboratório virtual disponibilizado pela instituição a fim de familizariação com o ambiente de laboratório
+- Uso de laboratório virtual disponibilizado pela instituição a fim de familiarização com o ambiente de laboratório
 - Análise da relação entre Eficiência, Transferência de Potência, Potência Dissipada e Resistência Equivalente em um circuito
 
 # Procedimento Experimental
