@@ -19,11 +19,6 @@ Este trabalho tem como objetivos principais o uso do laboratório virtual com a 
 - Uso de laboratório virtual disponibilizado pela instituição a fim de familizariação com o ambiente de laboratório
 - Análise da relação entre Eficiência, Transferência de Potência, Potência Dissipada e Resistência Equivalente em um circuito
 
-<!--
-Isto é um comentário, mesma sintaxe do HTML. Para conhecer a sintaxe
-do limarka consulte: https://github.com/abntex/limarka/wiki/Sintaxe
--->
-
 # Procedimento Experimental
 
 Através do uso do laboratório virtual, disponibilizado pela instituição para a construção deste relatório, foi possível a viabilização de diversos experimentos em relação ao uso do Potenciômetro em um circuito.
@@ -147,7 +142,7 @@ A partir dos dados obtidos nas medições foi possível através dos devidos cá
 \begin{figure}[htbp]
 \caption{\label{fig:grafic}Gráfico da Potência Dissipada em função da Eficiência}
 \begin{center}
-\includegraphics[width=1.0\textwidth]{/trabalho/imagens/grafico.jpg}
+\includegraphics[width=1.0\textwidth]{/trabalho/imagens/grafico.png}
 \end{center}
 \end{figure}
 
