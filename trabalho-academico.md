@@ -1,6 +1,6 @@
 # Introdução
 
-O desperdício de energia é algo que deve ser constantemente considerado durante a fase de projeto de um circuito elétrico não importa o seu tamanho. O teorema da máxima transferência de potência é um ponto chave nesse quesito pois ele nos ajuda a alcançar o máximo de aproveitamente de um circuito, evitando o desperdício de energia ao seu máximo.
+O desperdício de energia é algo que deve ser constantemente considerado durante a fase de projeto de um circuito elétrico não importa o seu tamanho. O teorema da máxima transferência de potência é um ponto chave nesse quesito pois ele nos ajuda a alcançar o máximo de aproveitamento de um circuito, evitando o desperdício de energia ao seu máximo.
 
 Neste experimento podemos observar a relação entre a máxima transferência de potência, eficiência, potência dissipada e a resistência equivalente em um circuito.
 
@@ -16,13 +16,8 @@ Este trabalho tem como objetivos principais o uso do laboratório virtual com a 
 ## Objetivos específicos
 
 - Aplicação de conhecimentos básicos das unidades curriculares do curso de Engenharia Elétrica
-- Uso de laboratório virtual disponibilizado pela instituição a fim de familizariação com o ambiente de laboratório
+- Uso de laboratório virtual disponibilizado pela instituição a fim de familiarização com o ambiente de laboratório
 - Análise da relação entre Eficiência, Transferência de Potência, Potência Dissipada e Resistência Equivalente em um circuito
-
-<!--
-Isto é um comentário, mesma sintaxe do HTML. Para conhecer a sintaxe
-do limarka consulte: https://github.com/abntex/limarka/wiki/Sintaxe
--->
 
 # Procedimento Experimental
 
@@ -147,7 +142,7 @@ A partir dos dados obtidos nas medições foi possível através dos devidos cá
 \begin{figure}[htbp]
 \caption{\label{fig:grafic}Gráfico da Potência Dissipada em função da Eficiência}
 \begin{center}
-\includegraphics[width=1.0\textwidth]{/trabalho/imagens/grafico.jpg}
+\includegraphics[width=1.0\textwidth]{/trabalho/imagens/grafico.png}
 \end{center}
 \end{figure}
 
